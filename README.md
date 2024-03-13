@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently a BSc Information Technology Student in my final year.<br>I'm looking to collaborate on any full stack Software Development projects.<br>I'm seeking help with Java, Python, SQL, CSS and Javascript.<br>I'm currently Learning AI with Python, API development and Data Structures.<br>I am a sneakerhead and sometimes I play video games competitively.
-
+I am currently a final-year BSc Information Technology student.<br>Seeking opportunities for collaboration on full-stack software development projects.<br>I am presently engaged in learning AI with Python, as well as API development and data structures.<br>I have a keen interest in sneakers and occasionally compete in video games.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/zubair-ameer-914549232) 
